@@ -70,51 +70,46 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
+	border:1.0pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	white-space:normal;}
+	white-space:normal;
+	mso-text-control:shrinktofit;}
 .xl68
 	{mso-style-parent:style0;
 	color:windowtext;
 	font-size:10.0pt;
-	font-weight:700;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	mso-number-format:"\[$-F800\]dddd\\\,\\ mmmm\\ dd\\\,\\ yyyy";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#D9D9D9;
+	border:1.0pt solid windowtext;
+	background:#FFC2BF;
 	mso-pattern:black none;
-	white-space:normal;}
+	white-space:normal;
+	mso-text-control:shrinktofit;}
 .xl69
 	{mso-style-parent:style0;
 	color:windowtext;
 	font-size:10.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid windowtext;
+	background:#DAF2D0;
+	mso-pattern:black none;
+	white-space:normal;
+	mso-text-control:shrinktofit;}
+.xl70
+	{mso-style-parent:style0;
+	font-size:10.0pt;
 	font-weight:700;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	mso-number-format:"Medium Time";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#D9D9D9;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl70
-	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:10.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:"\[$-F800\]dddd\\\,\\ mmmm\\ dd\\\,\\ yyyy";
-	text-align:center;
-	vertical-align:middle;
-	border:1.0pt solid black;
+	border:1.0pt solid windowtext;
 	background:#D9D9D9;
 	mso-pattern:black none;
 	white-space:normal;}
@@ -126,7 +121,10 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;
@@ -139,8 +137,11 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#F6F7BB;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFC2BF;
 	mso-pattern:black none;
 	white-space:normal;
 	mso-text-control:shrinktofit;}
@@ -152,25 +153,15 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#CAEDFB;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#DAF2D0;
 	mso-pattern:black none;
 	white-space:normal;
 	mso-text-control:shrinktofit;}
 .xl74
-	{mso-style-parent:style0;
-	color:windowtext;
-	font-size:10.0pt;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	text-align:center;
-	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#FFC2BF;
-	mso-pattern:black none;
-	white-space:normal;
-	mso-text-control:shrinktofit;}
-.xl75
 	{mso-style-parent:style0;
 	color:windowtext;
 	font-size:10.0pt;
@@ -180,7 +171,27 @@ td
 	mso-number-format:"\[$-F800\]dddd\\\,\\ mmmm\\ dd\\\,\\ yyyy";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl75
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Medium Time";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
 	background:#D9D9D9;
 	mso-pattern:black none;
 	white-space:normal;}
@@ -194,7 +205,10 @@ td
 	mso-number-format:"Medium Time";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
 	background:#D9D9D9;
 	mso-pattern:black none;
 	white-space:normal;}
@@ -204,13 +218,16 @@ td
 	font-size:10.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
-	mso-number-format:"\[$-F800\]dddd\\\,\\ mmmm\\ dd\\\,\\ yyyy";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
-	background:#D9D9D9;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:white;
 	mso-pattern:black none;
-	white-space:normal;}
+	white-space:normal;
+	mso-text-control:shrinktofit;}
 .xl78
 	{mso-style-parent:style0;
 	color:windowtext;
@@ -219,7 +236,10 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;
@@ -230,26 +250,32 @@ td
 	font-size:10.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
+	mso-number-format:"dddd\\\,\\ dd\/mm\/yyyy";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
-	background:#CAEDFB;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#D9D9D9;
 	mso-pattern:black none;
-	white-space:normal;
-	mso-text-control:shrinktofit;}
+	white-space:normal;}
 .xl80
 	{mso-style-parent:style0;
 	color:windowtext;
 	font-size:10.0pt;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
+	mso-number-format:"dddd\\\,\\ dd\/mm\/yyyy";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
-	background:#FFC2BF;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#D9D9D9;
 	mso-pattern:black none;
-	white-space:normal;
-	mso-text-control:shrinktofit;}
+	white-space:normal;}
 .xl81
 	{mso-style-parent:style0;
 	color:windowtext;
@@ -258,8 +284,11 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#DAF2D0;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#CAEDFB;
 	mso-pattern:black none;
 	white-space:normal;
 	mso-text-control:shrinktofit;}
@@ -271,32 +300,43 @@ td
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
-	background:#DAF2D0;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#CAEDFB;
 	mso-pattern:black none;
 	white-space:normal;
 	mso-text-control:shrinktofit;}
 .xl83
 	{mso-style-parent:style0;
+	color:windowtext;
 	font-size:10.0pt;
-	font-weight:700;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
-	background:#D9D9D9;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#DAF2D0;
 	mso-pattern:black none;
-	white-space:normal;}
+	white-space:normal;
+	mso-text-control:shrinktofit;}
 .xl84
 	{mso-style-parent:style0;
+	color:windowtext;
 	font-size:10.0pt;
-	font-weight:700;
 	font-family:Arial, sans-serif;
 	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid black;
-	background:#D9D9D9;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#DAF2D0;
 	mso-pattern:black none;
-	white-space:normal;}
+	white-space:normal;
+	mso-text-control:shrinktofit;}
